@@ -1,0 +1,5 @@
+ProductID,Name,Price,InStock
+20000,Tea,$79.99,Yes
+20001,Coffee,$49.99,Yes
+20002,Sandwich,$10.99,Yes
+20003,Cookies,$9.99,No

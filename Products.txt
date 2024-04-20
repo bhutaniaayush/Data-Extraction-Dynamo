@@ -1,0 +1,19 @@
+Product ID: 10000
+Name: Laptop
+Price: $799.99
+In Stock: Yes
+
+Product ID: 10001
+Name: Smartphone
+Price: $499.99
+In Stock: Yes
+
+Product ID: 10002
+Name: Headphones
+Price: $99.99
+In Stock: No
+
+Product ID: 10003
+Name: Tablet
+Price: $299.99
+In Stock: No
